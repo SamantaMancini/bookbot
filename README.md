@@ -1,2 +1,3 @@
-# my first project
-- my first project
+# bookbot
+
+BookBot is my first project!
