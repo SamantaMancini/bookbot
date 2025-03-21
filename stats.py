@@ -14,3 +14,6 @@ def dictionary_to_list(dictionary):
         if key.isalpha():
             list.append({"char":key, "freq":dictionary[key]})
     return list
+
+def sort_on(dict):
+    return dict["freq"]
